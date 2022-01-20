@@ -93,6 +93,10 @@ There were over 5000 images of 60 different animals.
 'woodpecker', 
 'zebra'
 ## Modeling
+![image](https://user-images.githubusercontent.com/92397941/150362319-7029fa69-1e60-4362-992b-ec8ac30a84ae.png)
+![image](https://user-images.githubusercontent.com/92397941/150362354-53cf5ee7-0a36-4c1e-b0d8-2651c806a9fa.png)
+
+
 ## Summary
 ├── README.md                               <- The top-level README for reviewers of this project
 ├── Final_model_validation.ipynb            <- Concise summary of the project with all data science steps
