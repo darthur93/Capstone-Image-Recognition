@@ -4,12 +4,12 @@
 There were over 5000 images of 60 different animals.
 'antelope'.
 'badger'. 
-'bat', 
-'bear',
-'bee',
-'beetle',
-'bison', 
-'boar', 
+'bat'. 
+'bear'.
+'bee'.
+'beetle'.
+'bison'. 
+'boar'. 
 'butterfly', 
 'cat', 
 'caterpillar', 
