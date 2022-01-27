@@ -26,9 +26,9 @@ There were over 5000 images of 60 different animals.\
 ![caterpillar1](https://user-images.githubusercontent.com/92397941/151287860-c617fcb2-544f-4e33-8231-04350f1b6411.jpg)\
 In order to compensate for the lack of data, I transformed the data being used by rotating and flipping it.
 ## Modeling
-
+To get a general understanding on how nerual network 'learn' to identify pictures. First the model has an imput of all the pixels of the image, then it subdivides the image into smaller units. It then finds patterns of these smaller units to make predictions about the classification of an image. For more infomation this a link to a useful source. https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/
 ![image](https://user-images.githubusercontent.com/92397941/150362319-7029fa69-1e60-4362-992b-ec8ac30a84ae.png)
-![image](https://user-images.githubusercontent.com/92397941/150362354-53cf5ee7-0a36-4c1e-b0d8-2651c806a9fa.png)
+![image](https://user-images.githubusercontent.com/92397941/150362354-53cf5ee7-0a36-4c1e-b0d8-2651c806a9fa.png)\
 I will be using the accuracy metric, because of the low cost of false positives. My final Model is the Dense Net, which had an accuracy score of 13% on training data The model had an accuracy of 11% on testing data This Model is not good enough for it to be deployed. It first needs to be improved
 
 
