@@ -20,11 +20,12 @@ The general idea is that users will be able to take a picture, initially of an a
 And a model will identify the animal, then link useful educational information related to what was identified.
 
 ## Data Understanding
-There were over 5000 images of 60 different animals.\
+
 ![antelope1](https://user-images.githubusercontent.com/92397941/151287811-5db0bad2-53f2-445d-9bd0-a7aa8cb1c6e1.jpg)\
 ![bear2](https://user-images.githubusercontent.com/92397941/151287842-ff6ca184-3ffe-41c8-9836-8f3599a53bf3.jpg)\
 ![caterpillar1](https://user-images.githubusercontent.com/92397941/151287860-c617fcb2-544f-4e33-8231-04350f1b6411.jpg)\
-In order to compensate for the lack of data, I transformed the data being used by rotating and flipping it.
+I chose a data set with 5000 images of 90 different animals, from Kaggle There is a lack of data with only 60 instances of each class. This is the primary limit of the data. I will need to collect more photos to compensate for this. This data is useful because it has already been labeled with the class of animal and will reduce preprossing time. Since the data is just an image and is associated class, all the data will be included.\
+Links to access the data are in the notebook.
 ## Modeling
 To get a general understanding on how nerual network 'learn' to identify pictures. First the model has an imput of all the pixels of the image, then it subdivides the image into smaller units. It then finds patterns of these smaller units to make predictions about the classification of an image. For more infomation this a link to a useful source. https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/
 ![image](https://user-images.githubusercontent.com/92397941/150362319-7029fa69-1e60-4362-992b-ec8ac30a84ae.png)
