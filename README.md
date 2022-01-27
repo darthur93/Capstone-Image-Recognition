@@ -20,10 +20,10 @@ The general idea is that users will be able to take a picture, initially of an a
 And a model will identify the animal, then link useful educational information related to what was identified.
 
 ## Data Understanding
-There were over 5000 images of 60 different animals.
-![antelope1](https://user-images.githubusercontent.com/92397941/151287811-5db0bad2-53f2-445d-9bd0-a7aa8cb1c6e1.jpg)
-![bear2](https://user-images.githubusercontent.com/92397941/151287842-ff6ca184-3ffe-41c8-9836-8f3599a53bf3.jpg)
-![caterpillar1](https://user-images.githubusercontent.com/92397941/151287860-c617fcb2-544f-4e33-8231-04350f1b6411.jpg)
+There were over 5000 images of 60 different animals.\
+![antelope1](https://user-images.githubusercontent.com/92397941/151287811-5db0bad2-53f2-445d-9bd0-a7aa8cb1c6e1.jpg)\
+![bear2](https://user-images.githubusercontent.com/92397941/151287842-ff6ca184-3ffe-41c8-9836-8f3599a53bf3.jpg)\
+![caterpillar1](https://user-images.githubusercontent.com/92397941/151287860-c617fcb2-544f-4e33-8231-04350f1b6411.jpg)\
 In order to compensate for the lack of data, I transformed the data being used by rotating and flipping it.
 ## Modeling
 I created a neural network, with 3 hidden layers. My best model used the relu activation function, but only had an accuracy of 13%.
