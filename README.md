@@ -37,8 +37,8 @@ First, I going to get more data, this is clearly a huge reason that my model is 
 Next, I would like to radically expand the domain of the model, to incorporate more animals as well as plants, stars, even famous artwork and architecture
 Finally, when the model is performing at a non comedic level, I will create an app, so that people will have acces
 
-├── README.md                               <- The top-level README for reviewers of this project
-├── Notebook.ipynb                          <- Concise summary of the project with all data science steps
-├── Slides.pdf                              <- PDF version of project presentation
-├── Archive                                 <- Both sourced externally and generated from code, includes exploratory notebooks
-└── Images                                  <- Both sourced externally and generated from code
+├── README.md                               <- The top-level README for reviewers of this project\
+├── Notebook.ipynb                          <- Concise summary of the project with all data science steps\
+├── Slides.pdf                              <- PDF version of project presentation\
+├── Archive                                 <- Both sourced externally and generated from code, includes exploratory notebooks\
+└── Images                                  <- Both sourced externally and generated from code\
